@@ -11,8 +11,11 @@
 
 // Wi-Fi credentials
 
-const char *ssid = "Xiaomi_5CDE";    // "TESTHVAC";  // "HasanLLAP";//"Xiaomi_5CDE";
-const char *password = "99031169Ab"; // "12345678";
+
+
+
+const char *ssid ="YourUSSID";
+const char *password ="YourPassword";
 #define __SERVER_ON__
 // Instantiate the web server
 #ifdef __SERVER_ON__
